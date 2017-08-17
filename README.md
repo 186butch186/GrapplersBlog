@@ -11,5 +11,5 @@ Iteration 1 criteria (In progress)
 	-Log in with their credentials 
 
 Software used
-	PHP, MYSQL, phpmyadmin, HTML, CSS, JavaScript, HTML5 UP
+	PHP, MYSQL, phpmyadmin, HTML, CSS, JavaScript, HTML5 UP - (Eventually template)
 
